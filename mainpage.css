@@ -1,18 +1,20 @@
 /* this is the style page */
 
+font-family: 'Charmonman', 'Comic Sans MS';
+
 #menuList {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #348060;
   float: middle;
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  background-color: #111;
+  background-color: #348060;
 }
 
 #m1 {
@@ -28,5 +30,21 @@
 }
 
 #m1 a:hover {
-  background-color: #111;
+  background-color: #7ea859;
+}
+
+body {
+    background-color: #f7e2d7
+}
+ 
+h1 {
+    color: #348060
+}
+
+h2 {
+    color: #e69483
+}
+
+p {
+    color: #4a2554
 }
