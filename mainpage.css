@@ -33,7 +33,7 @@
 
 body {
     font-family: "Castoro";
-    background-color: #ffe5d4;
+    background-color: #ffe6e6;
     /*#ffd8cc;*/
     /* #f7e2d7 light pink*/
 }
@@ -111,4 +111,8 @@ a {
   margin-right:5px;
   margin-bottom:5px;
   margin-left:5px;
+}
+
+.bigger {
+  font-size: 15pt;
 }
