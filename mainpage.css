@@ -11,7 +11,7 @@
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 2px 2px;
   text-decoration: none;
   background-color: #348060;
 }
@@ -33,7 +33,8 @@
 }
 
 body {
-    background-color: #f7e2d7
+    background-color:#ffd8cc;
+    /* #f7e2d7 light pink*/
 }
  
 h1 {
@@ -42,7 +43,7 @@ h1 {
 }
 
 h2 {
-    color: #4a2554;
+    color: #5d225d;
     /*orange color:e87c64*/
     text-align: center;
 }
@@ -52,7 +53,7 @@ ul {
 }
 
 p {
-    color: #4a2554;
+    color: black;
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
@@ -89,4 +90,18 @@ p {
 .fa-instagram {
   background: #f5426c;
   color: white;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+
+a {
+  margin-top:5px;
+  margin-right:5px;
+  margin-bottom:5px;
+  margin-left:5px;
 }
