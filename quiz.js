@@ -23,7 +23,7 @@ const myQuestions = [
         conclusion: 'you are aang shush'
     },
     {
-        question: "Are you managing okay, but want something to change?",
+        question: "Do you feel that something in your life needs to change but you don't know what? ",
         answers: {
             a: "ya",
             b: "idk kinda",
