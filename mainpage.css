@@ -38,12 +38,21 @@ body {
     /* #f7e2d7 light pink*/
 }
  
-h1 {
-    color: #386150;
+h3 {
+    color: hsl(155, 27%, 30%);
     text-align: center;
-    padding: 5px 5px;  
-    font-size: 40pt;
-    width: 800px;
+    font-size: 15pt;
+    padding: 3px 3px;  
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1 {
+  color: #386150;
+  text-align: center;
+  padding: 5px 5px;  
+  font-size: 40pt;
+  width: 800px;
 }
 
 h2 {
